@@ -17,7 +17,6 @@
             O Mozambique Companies managment e um sistema densevolvido com o interesse de dinamizar a compra e venda de produtos ou pservicos 
             de empresas lojas, de medio e grande porte a nivel nacional permitindo que os administradores e usuarios possam ver, consultar ou pedir a cotacao de certos produtos. 
             <br>
-
             <br>
             Contact us at :MozcompaniesManagment@gmail.com
             <br>
