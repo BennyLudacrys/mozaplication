@@ -85,53 +85,7 @@ System.out.println(e);
 
 
 
-
-        <!--pagina principal-->
-
-        <main>
-            <div class="container">
-                <div class="row mt-4">
-                    <!--first col-->
-                    <div class="col-md-4">
-                        <!--categories-->
-                        <div class="list-group">
-                            <a href="#" onclick=""  class=" c-link list-group-item list-group-item-action active">
-                                All Posts
-                            </a>
-                            <!--categorias-->
-
-                            
-                            <a href="#" onclick="" class=" c-link list-group-item list-group-item-action"></a>
-
-
-                        </div>
-
-                    </div>
-
-                    <!--carregamento-->
-                    <div class="col-md-8" >
-                        <!--posts-->
-                        <div class="container text-center" id="loader">
-                            <i class="fa fa-refresh fa-4x fa-spin"></i>
-                            <h3 class="mt-2">Carregando...</h3>
-                        </div>
-
-                        <div class="container-fluid" id="post-container">
-
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-
-        </main>
-        
-        
-        
-        
-        
-        
+  
 
     </body>
 </html>
